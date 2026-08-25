@@ -1,5 +1,5 @@
 # Ex. No: 9 - Packet Tracer: Subnet an IPv4 Network
-# Date: ___________
+# Date: 25/08/2026
 ________________________________________ <br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
@@ -93,9 +93,25 @@ ________________________________________<br>
 •	Save: copy running-config startup-config<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
-•	show ip interface brief on CustomerRouter<br>
-•	show ip route<br>
-•	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
+
+<img width="1916" height="1015" alt="Screenshot 2026-08-25 135614" src="https://github.com/user-attachments/assets/c92c6302-7f46-47dd-b750-4e8f7861c195" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dca9147-8d00-47ea-b697-e8176a4064a6" />
+
+<img width="1917" height="1015" alt="Screenshot 2026-08-25 140346" src="https://github.com/user-attachments/assets/8fa371ed-b51c-41fc-9fa8-f873f3329614" />
+
+<img width="1916" height="1003" alt="Screenshot 2026-08-25 140400" src="https://github.com/user-attachments/assets/f99c1518-562c-40b9-8ae3-c9cd93c786b8" />
+
+<img width="1915" height="1016" alt="Screenshot 2026-08-25 135442" src="https://github.com/user-attachments/assets/70ec8a35-d76b-4bea-9454-cc1435996483" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-08-25 140419" src="https://github.com/user-attachments/assets/c0e040b3-a13b-461f-ac36-f17b73733143" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-08-25 140437" src="https://github.com/user-attachments/assets/94ae00e0-c301-487b-be39-b58848c3956e" />
+
+<img width="1917" height="1020" alt="Screenshot 2026-08-25 140515" src="https://github.com/user-attachments/assets/895c8c00-c43a-41ff-842b-ad66a362b3b9" />
+
+<img width="1917" height="1020" alt="Screenshot 2026-08-25 140612" src="https://github.com/user-attachments/assets/d1a02d42-b3d5-4ee1-8cfa-1d819c6d5c89" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Router, switches, and PCs were configured with correct addressing. Connectivity within LANs, across subnets, and to ISP devices was verified using ping and show commands.<br>
